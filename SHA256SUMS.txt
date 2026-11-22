@@ -1,0 +1,3 @@
+c1fa60209956b1a11d211d1de92cc237bbece2aeed6db2182d07740e0702f8bf  oo-fish-hut-android-0.2.3-a1.apk
+be9f5db842bc5c32aedc3b7b753a376eb0e9267db8951a4661f1c495443501ae  oo-fish-hut-windows-0.7.1-clean-x64.zip
+fc7f4dbf1273833cca4cf51f4bda9bec148d4dd06f7d482b09af4153c767f968  oo-fish-hut-windows-0.7.1-clean-source.zip

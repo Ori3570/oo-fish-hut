@@ -1,0 +1,4 @@
+Runtime: Capacitor 8.3.2, MIT license, copyright Drifty Co.
+AndroidX libraries and Apache Cordova framework: Apache License 2.0, upstream notices remain applicable.
+Character/default asset license: CHARACTER-LICENSE.txt, retained with original assets.
+Build tools (JDK/Android SDK/Gradle) are not part of this APK source or APK delivery.
