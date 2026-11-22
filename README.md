@@ -1,6 +1,6 @@
 # 大肥鱼小屋 · OO Fish Hut
 
-把大肥鱼 OO 养进手机和电脑里。你可以和她聊天，给她起个称呼，让小屋用上你喜欢的背景。Windows 版还可以把她放在桌面上。
+把大肥鱼 OO 养进手机和电脑里。你可以和她聊天，也可以自定义称呼。安卓版可以更换聊天背景，Windows 版可以把她放在桌面上。
 
 [下载公开试用版](https://github.com/Ori3570/oo-fish-hut/releases/tag/v2026.11.22) · 制作与发布 [哦哦是鲸鲸](https://space.bilibili.com/3747574804646987)
 
@@ -11,7 +11,7 @@
 | 平台 | 安装包 | 可以体验 |
 | --- | --- | --- |
 | Android 7 及以上 | [安卓 APK 0.2.3-a1](https://github.com/Ori3570/oo-fish-hut/releases/download/v2026.11.22/oo-fish-hut-android-0.2.3-a1.apk) | 聊天、性格与记忆、相册聊天背景、记录导出和 B 站工作台 |
-| Windows 10/11 64 位 | [Windows 0.7.1 纯净聊天版](https://github.com/Ori3570/oo-fish-hut/releases/download/v2026.11.22/oo-fish-hut-windows-0.7.1-clean-x64.zip) | 聊天、桌面宠物、称呼和人格、自定义图标与背景、可选的主动搭话 |
+| Windows 10/11 64 位 | [Windows 0.7.1 纯净聊天版](https://github.com/Ori3570/oo-fish-hut/releases/download/v2026.11.22/oo-fish-hut-windows-0.7.1-clean-x64.zip) | 聊天、桌面宠物、称呼和人格、自定义小屋图标、可选的主动搭话 |
 
 1. **安卓**。把 APK 下载到手机，在文件管理里点开安装。如果系统询问，按系统提示为当前下载或文件管理应用授权。相同包名和同一签名的旧版本可以覆盖安装。卸载或清除应用数据前，请先导出想保留的聊天。
 2. **Windows**。先完整解压 ZIP，再双击「大肥鱼小屋.exe」。运行时目录 `_internal` 和许可目录 `licenses` 要和 EXE 放在一起。Python 与 Qt 运行库已经随包带齐。 EXE 为未签名试用构建，系统如果提示来源，请先用下方校验值确认文件完整。
